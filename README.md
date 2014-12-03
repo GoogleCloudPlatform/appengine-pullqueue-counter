@@ -1,4 +1,4 @@
 appengine-pullqueue-counter
 ===========================
 
-An example for App Engine pull queue
+A simple counter with App Engine pull queue
